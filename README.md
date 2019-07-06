@@ -1,6 +1,7 @@
 # Group 7 -JS Overload- Project Submission
 
-Links to apps:
+_Links to apps:_
+
 
 [Choropleth Map on Azure](https://jsoverload.azurewebsites.net/cy "Cy's Map, App by Harish")
 
@@ -8,7 +9,9 @@ Links to apps:
 
 [Bar Chart on Heroku](https://www.google.com "Franklin's Bar Chart")
 
-Links to repos:
+
+_Links to repos:_
+
 
 [Cy Edmonds & Harish Krishna](https://github.com/harishbk77/jsoverload_final.git "Cy's Map, App by Harish")
 
